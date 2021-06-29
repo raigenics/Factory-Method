@@ -1,4 +1,4 @@
-# FactoryMethod
+# Factory Method Design Pattern
 Factory method design pattern is all about creation of object, so it falls under creational design pattern category. This is one of the most commonly used GoF design pattern and quite easy to understand.
 GoF defines it as 
 “Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.”
